@@ -6,22 +6,26 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
+
 
 ## 📌 About Me
 - Estudiante de Ingeniería en Tecnologías de la Información, apasionado por la innovación y la mejora continua dentro del desarrollo de software. Siempre curioso por descubrir nuevas capacidades, soluciones y funcionalidades que pueden lograrse a través del código y la tecnología. Obteniendo conocimientos constante y en búsqueda de nuevas formas de optimizar procesos y crear herramientas útiles. Actualmente enfocado en el área de desarrollo de software seguro, integrando desarrollo, seguridad y operaciones para construir soluciones más eficientes y seguras.
 
-
-## 📊 GitHub Stats & Trophies
+## 🔗 Connect with Me
 <p align="center">
-  <a href="https://github.com/PabloIbVa">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PabloIbVa&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="PabloIbVa's GitHub Stats" />
+  <a href="https://www.linkedin.com/in/pablo-ivan-ibarra-valencia-b8a446351/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/529612415738">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:pabloibva@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://pabloibva.github.io/Proyecto_Portafolio/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
 
 ## 🛠️ Languages & Tools
 
@@ -44,21 +48,15 @@
 </p>
 
 
-## 🔗 Connect with Me
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://www.linkedin.com/in/pablo-ivan-ibarra-valencia-b8a446351/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://wa.me/529612415738">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:pabloibva@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://pabloibva.github.io/Proyecto_Portafolio/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  <a href="https://github.com/PabloIbVa">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PabloIbVa&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="PabloIbVa's GitHub Stats" />
   </a>
 </p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
