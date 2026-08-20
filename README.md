@@ -54,9 +54,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PabloIbVa&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="PabloIbVa's GitHub Stats" />
   </a>
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
